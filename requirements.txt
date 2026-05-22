@@ -1,0 +1,6 @@
+selenium
+webdriver-manager
+google-generativeai
+pandas
+customtkinter
+lxml

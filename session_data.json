@@ -1,0 +1,174 @@
+{
+  "noticias": [
+    {
+      "titulo": "Testar os novos recursos",
+      "link": "https://www.youtube.com/new"
+    }
+  ],
+  "ultimo_comando": "rodar macro",
+  "historico": [
+    {
+      "ts": "11:18:24",
+      "cmd": "digite olá, no input login"
+    },
+    {
+      "ts": "11:18:51",
+      "cmd": "digite olá no xpath //*[@id=\"loginForm\"]/div[1]/div[1]/div/label/input"
+    },
+    {
+      "ts": "11:18:58",
+      "cmd": "é para digitar olá"
+    },
+    {
+      "ts": "11:19:10",
+      "cmd": "no campo //*[@id=\"Olá,\"]/div[1]/div[1]/div/label/input"
+    },
+    {
+      "ts": "11:19:24",
+      "cmd": "digite //*[@id=\"Olá\"]/div[1]/div[1]/div/label/input"
+    },
+    {
+      "ts": "11:19:43",
+      "cmd": "digite olá no xpath //*[@id=\"loginForm\"]/div[1]/div[1]/div/label/input"
+    },
+    {
+      "ts": "11:25:11",
+      "cmd": "digite olá no xpath //*[@id=\"loginForm\"]/div[1]/div[1]/div/label/input"
+    },
+    {
+      "ts": "11:25:41",
+      "cmd": "digita olá no xpath //*[@id=\"loginForm\"]/div[1]/div[2]/div/label/input"
+    },
+    {
+      "ts": "11:26:36",
+      "cmd": "digite olá no campo senha"
+    },
+    {
+      "ts": "11:26:53",
+      "cmd": "digite olá no campo password"
+    },
+    {
+      "ts": "11:27:25",
+      "cmd": "escreva olá no campo Senha"
+    },
+    {
+      "ts": "11:28:57",
+      "cmd": "escreva olá em Senha"
+    },
+    {
+      "ts": "11:30:02",
+      "cmd": "digite olá em Senha"
+    },
+    {
+      "ts": "11:30:16",
+      "cmd": "digite olá em Login"
+    },
+    {
+      "ts": "11:30:30",
+      "cmd": "digite olá em username"
+    },
+    {
+      "ts": "11:30:44",
+      "cmd": "digite Olá em Senha"
+    },
+    {
+      "ts": "11:30:56",
+      "cmd": "digite ola em Senha"
+    },
+    {
+      "ts": "11:31:21",
+      "cmd": "digite olá em //*[@id=\"loginForm\"]/div[1]/div[2]/div/label/input"
+    },
+    {
+      "ts": "11:31:35",
+      "cmd": "digite olá no xpath //*[@id=\"loginForm\"]/div[1]/div[2]/div/label/input"
+    },
+    {
+      "ts": "11:32:02",
+      "cmd": "digite olá no xpath //*[@id=\"loginForm\"]/div[1]/div[1]/div/label/input"
+    },
+    {
+      "ts": "11:32:33",
+      "cmd": "digite olá no xpath //*[@id=\"loginForm\"]/div[1]/div[1]/div/label/input"
+    },
+    {
+      "ts": "11:32:41",
+      "cmd": "digite olá123 no xpath //*[@id=\"loginForm\"]/div[1]/div[1]/div/label/input"
+    },
+    {
+      "ts": "11:32:53",
+      "cmd": "digite 1234 no xpath //*[@id=\"loginForm\"]/div[1]/div[1]/div/label/input"
+    },
+    {
+      "ts": "11:33:15",
+      "cmd": "rodar macro"
+    },
+    {
+      "ts": "11:45:27",
+      "cmd": "digite olá em Login"
+    },
+    {
+      "ts": "11:46:39",
+      "cmd": "digite olá em //*[@id=\"loginForm\"]/div[1]/div[1]/div/label/input"
+    },
+    {
+      "ts": "11:47:00",
+      "cmd": "digite \"minha senha\" no type password"
+    },
+    {
+      "ts": "11:47:24",
+      "cmd": "digite \"minha senha\" no type name"
+    },
+    {
+      "ts": "11:47:36",
+      "cmd": "digite \"minha senha\" no type text"
+    },
+    {
+      "ts": "11:47:45",
+      "cmd": "digite \"minha senha\" no type text"
+    },
+    {
+      "ts": "11:47:59",
+      "cmd": "digite \"minha senha\" no type password"
+    },
+    {
+      "ts": "11:48:04",
+      "cmd": "digite \"minha senha\" no type username"
+    },
+    {
+      "ts": "11:48:18",
+      "cmd": "digite \"minha senha\" no type text"
+    },
+    {
+      "ts": "11:48:35",
+      "cmd": "rodar macro"
+    },
+    {
+      "ts": "11:49:19",
+      "cmd": "digite \"minha senha\" no type password"
+    },
+    {
+      "ts": "11:51:50",
+      "cmd": "abrir site instagram.com"
+    },
+    {
+      "ts": "11:52:18",
+      "cmd": "abrir instagram.com"
+    },
+    {
+      "ts": "11:52:30",
+      "cmd": "rodar macro"
+    }
+  ],
+  "favoritos": [
+    {
+      "titulo": "Esqueceu a senha?",
+      "link": "https://www.instagram.com/accounts/password/reset/"
+    }
+  ],
+  "macros": {
+    "macro": [
+      "abrir instagram.com"
+    ]
+  }
+}
